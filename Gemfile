@@ -181,7 +181,7 @@ group :development, :test do
 
   # Code quality
   gem 'rubocop', '~> 1.57', require: false
-  gem 'rubocop-rails', '~> 2.22', require: false
+  gem 'rubocop-rails', '~> 2.33', require: false
   gem 'rubocop-rspec', '~> 2.25', require: false
 end
 
